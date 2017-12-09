@@ -28,4 +28,9 @@ Installation:
 
 -----------------------------------------------
 
+Modifications:
+
+My git config converts Windows line breaks to Unix line breaks on upload. If you're having issues, you might need to switch the 
+line breaks in the config files. 
+
 This skin is provided without support or warranty, under the MIT License per license.txt
