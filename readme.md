@@ -8,7 +8,6 @@ These files are not required for Clarity to run.
 
 1. Rainmeter 4.1
 2. MSI Afterburner installed and running 
-
 	The following monitors enabled (`MSI Afterburner Settings -> Monitoring`):
   * GPU temperature
   * GPU usage
