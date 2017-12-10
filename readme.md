@@ -7,7 +7,7 @@ These files are not required for Clarity to run.
 ## Requirements
 
 1. Rainmeter 4.1
-2. MSI Afterburner installed and running 
+2. [MSI Afterburner](https://www.msi.com/page/afterburner) installed and running 
 
 	The following monitors enabled (`MSI Afterburner Settings -> Monitoring`):
 
@@ -19,7 +19,7 @@ These files are not required for Clarity to run.
   * Memory Usage
   * Framerate
   * GPU Voltage
-3. CoreTem installed and running
+3. [CoreTemp](http://www.alcpu.com/CoreTemp/) installed and running
 
 If you don't intend to run the specific skins that display the above, feel free to disable the monitoring you don't need. 
 
